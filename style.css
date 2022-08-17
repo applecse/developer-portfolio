@@ -6,7 +6,6 @@ body {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-
 }
 
 h1 {
@@ -36,7 +35,7 @@ section {
     color: white;
     background-image: linear-gradient(tomato, orange);
     padding: 10px 20px;
-    border: 1px solid;
-    border-radius: 5px;
+    border: 5px solid;
+    border-radius: 10px;
     font-weight: 700;
 }
